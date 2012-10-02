@@ -1,4 +1,9 @@
-# Puppet caffeine for Boxen
+# Caffeine Puppet Module for Boxen
 
-FIXME: update me bro
+Requires the `boxen` puppet module.
 
+## Usage
+
+```puppet
+include caffeine
+```

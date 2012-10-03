@@ -1,3 +1,8 @@
+# Public: Install Caffeine.app to /Applications.
+#
+# Examples
+#
+#   include caffeine
 class caffeine {
   package { 'Caffeine':
     provider => 'compressed_app',

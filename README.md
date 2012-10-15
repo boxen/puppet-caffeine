@@ -1,6 +1,10 @@
 # Caffeine Puppet Module for Boxen
 
-Requires the `boxen` puppet module.
+Requires the following puppet modules:
+
+ * `boxen`
+ * `property_list_key`
+ * `osx`
 
 ## Usage
 

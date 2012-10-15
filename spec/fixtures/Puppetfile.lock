@@ -1,0 +1,14 @@
+GITHUBTARBALL
+  remote: boxen/puppet-osx
+  specs:
+    osx (0.0.2)
+
+GITHUBTARBALL
+  remote: glarizza/puppet-property_list_key
+  specs:
+    property_list_key (0.1.0)
+
+DEPENDENCIES
+  osx (= 0.0.2)
+  property_list_key (= 0.1.0)
+

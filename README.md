@@ -1,8 +1,6 @@
 # Caffeine Puppet Module for Boxen
 
-An example of how we write Puppet modules for Boxen. Replace this
-paragraph with a short explanation of what the heck makes your module
-useful.
+Install [Caffeine](http://lightheadsw.com/caffeine), insomnia for your Mac.
 
 ## Usage
 

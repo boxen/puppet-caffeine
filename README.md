@@ -1,6 +1,8 @@
 # Caffeine Puppet Module for Boxen
 
-Requires the `boxen` puppet module.
+An example of how we write Puppet modules for Boxen. Replace this
+paragraph with a short explanation of what the heck makes your module
+useful.
 
 ## Usage
 
@@ -8,8 +10,11 @@ Requires the `boxen` puppet module.
 include caffeine
 ```
 
-## Developing
+## Required Puppet Modules
 
-Write code.
+* `boxen`
 
-Run `script/cibuild`.
+## Development
+
+Write code. Run `script/cibuild` to test it. Check the `script`
+directory for other useful tools.

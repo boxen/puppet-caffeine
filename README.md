@@ -1,5 +1,7 @@
 # Caffeine Puppet Module for Boxen
 
+[![Build Status](https://travis-ci.org/boxen/puppet-caffeine.png)](https://travis-ci.org/boxen/puppet-caffeine)
+
 Install [Caffeine](http://lightheadsw.com/caffeine), insomnia for your Mac.
 
 ## Usage
